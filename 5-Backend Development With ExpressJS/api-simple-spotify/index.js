@@ -8,19 +8,20 @@ app.use(express.urlencoded({ extended: false }));
 let songs = [];
 
 app.get("/song", (req, res) => {
-  res.status(200).send(songs);
+  try {
+    res.status(200).send(songs);
+  } catch (error) {
+    res.status(500).send({ message: error.message });
+  }
 });
 
-app.get("/song", (req, res) => {
+app.get("/song/:id", (req, res) => {
   try {
-    const { title } = req.query;
-
-    const song = songs.includes(title)
-
+    const { id } = req.params
+    const song = songs.find(song => song.id == id)
     if (!song) {
-      return res.status(404).send({ error: "Song not found" });
+      return res.status(400).send({ message: "Song not found" })
     }
-
     res.status(200).send(song);
   } catch (error) {
     res.status(500).send({ message: error.message });
@@ -36,6 +37,7 @@ app.post("/song", (req, res) => {
     }
 
     const song = {
+      id: songs.length + 1,
       title,
       artist,
       url,
