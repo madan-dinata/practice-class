@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "64b8b4b7ea0ceadcaedc2693"
+  },
+  "name": "Artist 1",
+  "dateOfBirth": {
+    "$date": "2000-01-01T00:00:00.000Z"
+  },
+  "album": [
+    "Album 1"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b8b4b7ea0ceadcaedc2694"
+  },
+  "name": "Artist 2",
+  "dateOfBirth": {
+    "$date": "2000-01-01T00:00:00.000Z"
+  },
+  "album": [
+    "Album 2",
+    "Album 3"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b8b4b7ea0ceadcaedc2695"
+  },
+  "name": "Artist 3",
+  "dateOfBirth": {
+    "$date": "2000-01-01T00:00:00.000Z"
+  },
+  "album": [
+    "Album 4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b8b4b7ea0ceadcaedc2696"
+  },
+  "name": "Artist 4",
+  "dateOfBirth": {
+    "$date": "2000-01-01T00:00:00.000Z"
+  },
+  "album": [
+    "Album 5"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b8b4b7ea0ceadcaedc2697"
+  },
+  "name": "Artist 5",
+  "dateOfBirth": {
+    "$date": "2000-01-01T00:00:00.000Z"
+  },
+  "album": [
+    "Album 5"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b8b4b7ea0ceadcaedc2698"
+  },
+  "name": "Artist 6",
+  "dateOfBirth": {
+    "$date": "2000-01-01T00:00:00.000Z"
+  },
+  "album": [
+    "Album 6"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b8b4b7ea0ceadcaedc2699"
+  },
+  "name": "Artist 7",
+  "dateOfBirth": {
+    "$date": "2000-01-01T00:00:00.000Z"
+  },
+  "album": [
+    "Album 7"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b8b4b7ea0ceadcaedc269a"
+  },
+  "name": "Artist 8",
+  "dateOfBirth": {
+    "$date": "2000-01-01T00:00:00.000Z"
+  },
+  "album": [
+    "Album 8"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b8b4b7ea0ceadcaedc269b"
+  },
+  "name": "Artist 9",
+  "dateOfBirth": {
+    "$date": "2000-01-01T00:00:00.000Z"
+  },
+  "album": [
+    "Album 9"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b8b4b7ea0ceadcaedc269c"
+  },
+  "name": "Artist 10",
+  "dateOfBirth": {
+    "$date": "2000-01-01T00:00:00.000Z"
+  },
+  "album": [
+    "Album 10"
+  ]
+}]

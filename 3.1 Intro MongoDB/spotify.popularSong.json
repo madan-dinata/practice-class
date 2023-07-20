@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "64b8b569ea0ceadcaedc26bb"
+  },
+  "title": "Song 1",
+  "plays": 100,
+  "period": {
+    "date": {
+      "$date": "2000-01-01T00:00:00.000Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8b569ea0ceadcaedc26bc"
+  },
+  "title": "Song 2",
+  "plays": 222,
+  "period": {
+    "date": {
+      "$date": "2000-01-01T00:00:00.000Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8b569ea0ceadcaedc26bd"
+  },
+  "title": "Song 3",
+  "plays": 300,
+  "period": {
+    "date": {
+      "$date": "2000-01-01T00:00:00.000Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8b569ea0ceadcaedc26be"
+  },
+  "title": "Song 4",
+  "plays": 84,
+  "period": {
+    "date": {
+      "$date": "2000-01-01T00:00:00.000Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8b569ea0ceadcaedc26bf"
+  },
+  "title": "Song 5",
+  "plays": 50,
+  "period": {
+    "date": {
+      "$date": "2000-01-01T00:00:00.000Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8b569ea0ceadcaedc26c0"
+  },
+  "title": "Song 6",
+  "plays": 16,
+  "period": {
+    "date": {
+      "$date": "2000-01-01T00:00:00.000Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8b569ea0ceadcaedc26c1"
+  },
+  "title": "Song 7",
+  "plays": 7,
+  "period": {
+    "date": {
+      "$date": "2000-01-01T00:00:00.000Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8b569ea0ceadcaedc26c2"
+  },
+  "title": "Song 8",
+  "plays": 200,
+  "period": {
+    "date": {
+      "$date": "2000-01-01T00:00:00.000Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8b569ea0ceadcaedc26c3"
+  },
+  "title": "Song 9",
+  "plays": 70,
+  "period": {
+    "date": {
+      "$date": "2000-01-01T00:00:00.000Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "64b8b569ea0ceadcaedc26c4"
+  },
+  "title": "Song 10",
+  "plays": 10,
+  "period": {
+    "date": {
+      "$date": "2000-01-01T00:00:00.000Z"
+    }
+  }
+}]
